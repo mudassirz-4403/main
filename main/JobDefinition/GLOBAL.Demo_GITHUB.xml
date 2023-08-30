@@ -32,7 +32,7 @@
   <CompletionStrategy>Default</CompletionStrategy>
   <OverdueEventDefinition />
   <DefaultOutputFormat />
-  <JobDefinitionType type="JobDefinitionType" path="GLOBAL.CMD" />
+  <JobDefinitionType type="JobDefinitionType" path="GLOBAL.BASH" />
   <DefaultLogFormat />
   <DefaultQueue />
   <Resource />
